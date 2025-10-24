@@ -1,4 +1,4 @@
-# -Mobile-Sales-insightes-Power-BI
+Mobile-Sales-insightes-Power-BI
 I recently created this Mobile Sales Data Dashboard using Microsoft Power BI. This dashboard provides a comprehensive view of:
 
 ✅ Total Sales, Quantity & Transactions
